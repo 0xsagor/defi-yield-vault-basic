@@ -1,0 +1,8 @@
+{
+  "name": "defi-yield-vault-basic",
+  "version": "1.0.0",
+  "description": "Minimalist Yield Aggregator Vault",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0"
+  }
+}
